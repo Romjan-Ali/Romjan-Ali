@@ -37,19 +37,7 @@ I actively explore new technologies, work on personal and open-source projects, 
   <img alt="PostgreSQL.js" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="42" />  
 </div>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Romjan-Ali&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romjan-Ali&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Romjan-Ali&theme=radical" />
-</p>
 
 
 
